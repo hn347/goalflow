@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# Next.js build output
+kitten-dashboard/.next/
+kitten-dashboard/out/
+
+# environment files
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+
+# editor
+.vscode/
+
+# MCP credentials
+mcp.json
+.bob/mcp.json
+
+# Local credentials and generated files
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]

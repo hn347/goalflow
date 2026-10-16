@@ -1,0 +1,21 @@
+{
+  "decision": "repeat",
+  "scores": {
+    "goalAlignment": 0,
+    "acceptanceCriteriaCoverage": 0,
+    "implementationCompleteness": 0,
+    "verificationStrength": 0,
+    "riskAndRegressionControl": 0
+  },
+  "strengths": [],
+  "gaps": [],
+  "failedCriteria": [],
+  "requiredNextActions": [
+    {
+      "phase": "builder",
+      "criterion": "<exact criterion from goal.md>",
+      "action": "<specific file or command to fix>",
+      "reason": "<what evidence was missing or wrong>"
+    }
+  ]
+}
