@@ -4,7 +4,7 @@
 
 GoalFlow adds a `/goal` command that coordinates requirements discovery, implementation, QA, and an independent judge. It addresses a common problem in agent-assisted development: code can look finished before its acceptance criteria have actually been checked.
 
-Built for the IBM Bob hackathon. Original team attribution: **Rsubarsky / ibm-hack**.
+Built for the IBM Bob hackathon by Helen Ni and Rory Subarsky.
 
 ## At a glance
 
